@@ -16,6 +16,11 @@ This assignment focuses on practicing TypeScript fundamentals and Object-Oriente
 - Type Aliases vs. Interfaces
 - `any`, `unknown` & `never`
 
+## Blog Posts
+
+1. [Type Aliases vs. Interfaces in TypeScript](blogs/type-aliases-vs-interface.md)
+2. [Understanding any, unknown, and never in TypeScript](blogs/any-unknown-never.md)
+
 ## Learning Outcomes
 
 By completing this assignment, I practiced and strengthened my understanding of:
