@@ -18,7 +18,7 @@ This assignment focuses on practicing TypeScript fundamentals and Object-Oriente
 
 ## Blog Posts
 
-1. [Type Aliases vs. Interfaces in TypeScript](type-aliases-vs-interface.md)
+1. [Type Aliases vs. Interfaces in TypeScript](type-vs-interface.md)
 2. [Understanding any, unknown, and never in TypeScript](typescript-type-hierarchy-any-unknown-never.md)
 
 ## Learning Outcomes
