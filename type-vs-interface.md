@@ -12,14 +12,14 @@ Both help developers describe object structures, improve code readability, and m
 
 A type alias allows developers to create custom names for different types, including objects, primitives, unions, and tuples.
 
-\```typescript
+`typescript
 type User = {
     name: string;
     age: number;
 };
 
 type Status = 'success' | 'error';
-\```
+`
 
 ### ii. Interface
 
