@@ -111,7 +111,4 @@ async function validateAgeAsync(age:number):Promise<string> {
 }
 
 
-async function runValidateAgeAsync(age:number) {
-    console.log(await validateAgeAsync(age)) 
-}
 
